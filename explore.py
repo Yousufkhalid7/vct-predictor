@@ -28,3 +28,7 @@ print("\nColumns:", teams.columns.tolist())
 print("\n=== PICK_BAN.CSV ===")
 print(ban.head())
 print("\nColumns:", ban.columns.tolist())
+
+print("\n=== PLAYER_ID.CSV ===")
+print(players.head())
+print("\nColumns:", players.columns.tolist())
