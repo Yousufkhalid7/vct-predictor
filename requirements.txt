@@ -1,0 +1,9 @@
+#Libraries
+scikit-learn
+matplotlib.pyplot
+pandas
+streamlit
+kaggle
+numpy
+
+
